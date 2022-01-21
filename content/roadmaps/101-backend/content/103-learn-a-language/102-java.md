@@ -1,1 +1,1 @@
-# Java
+Java is another exemplary programming language for backend web development. The object-oriented programming language is widely used for developing enterprise-scale web applications along with the development of android applications, desktop applications, scientific applications, etc.
